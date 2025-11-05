@@ -1,0 +1,11 @@
+hydrophobicity,charge,molecular_weight,polarity,function
+0.75,1,520,0.3,Enzyme
+0.22,-1,340,0.5,Receptor
+0.61,0,410,0.2,Transport
+0.15,1,360,0.6,Enzyme
+0.55,-1,490,0.4,Receptor
+0.43,0,380,0.3,Transport
+0.80,1,530,0.2,Enzyme
+0.10,-1,300,0.7,Receptor
+0.66,0,410,0.4,Transport
+0.50,1,450,0.3,Enzyme
